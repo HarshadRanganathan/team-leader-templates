@@ -1,2 +1,2 @@
 
-![Meeting Schedule](Meeting Schedule.png)
+![Meeting Schedule](meeting-schedule.png)
